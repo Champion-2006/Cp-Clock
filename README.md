@@ -1,2 +1,2 @@
 # Cp-Clock
-Developed a lightweight Chrome extension to help users track time while solving problems on Codeforces,  improving contest preparation and time management.
+Google Chrome Extension for users for speed solving and time management in Codeforces.
