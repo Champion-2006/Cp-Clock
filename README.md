@@ -53,5 +53,5 @@ The **Cp Clock** Chrome Extension is designed for competitive programmers who wa
 This extension is perfect for:
 - Practicing virtual contests.
 - Speed-solving individual problems with a time limit.
-- Managing time like in real contests without external tools.
+- Managing time like in real contests without external tools. 
 
